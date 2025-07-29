@@ -1,4 +1,4 @@
-name = "book-tracker-worker"
+name = "book-tracker"
 main = "src/index.js"
 compatibility_date = "2025-07-29"
 
