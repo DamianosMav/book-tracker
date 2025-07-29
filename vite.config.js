@@ -4,7 +4,7 @@ import {fileURLToPath, URL} from "node:url"
 
 // https://vite.dev/config/
 export default defineConfig({
-  base:"/book-tracker/",
+  base:"/",
   resolve: {
     alias: {
       "@" : fileURLToPath(new URL("./src", import.meta.url)),
