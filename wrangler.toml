@@ -1,6 +1,7 @@
 name = "book-tracker"
-main = "src/index.js"
+type = "javascript"
 compatibility_date = "2025-07-29"
 
 [site]
 bucket = "./dist"
+entry-point = "."
